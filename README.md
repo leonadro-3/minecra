@@ -182,6 +182,7 @@
 [20:16:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1]'/minecraft:the_end
 [20:16:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1]'/minecraft:the_nether
 
+: https://minecraft.fandom.com/wiki/Commands
 
 #2 collect data
 
